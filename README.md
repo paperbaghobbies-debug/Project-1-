@@ -19,6 +19,10 @@ I used Jesse James Garrett’s five planes to help me work out the website, star
 
 I also used ideas from the Agile Manifesto by making changes as I received feedback, rather than sticking to my first ideas. For example, Lydia’s feedback changed some of my plans for the gallery and enquiry form. I recorded these changes and the reasons behind them in my research so I could use them when making the designs and building the website.
 
+- [Navigating the Five Planes of UX: Structure Plane](https://medium.com/design-bootcamp/designing-delight-your-ultimate-guide-to-the-structure-plane-f8c5f273bd9b)
+- [Manifesto for Agile Software Development](https://agilemanifesto.org)
+- [Code Institute - User Experience Essentials](https://lms.codeinstitute.net/learner_module/show/129021?lesson_id=574949&section_id=2215212)
+
 ### Initial questionnaire
 
 - I wanted to understand Lydia's goals, existing ideas and practical needs before deciding how my skills could help.
