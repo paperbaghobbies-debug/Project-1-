@@ -179,11 +179,15 @@ The following checks are for the user stories documented so far. They are planne
 - **09/11/2026 – Later design decision:** After looking at FormSubmit's privacy policy and endpoint information, I decided to keep the enquiry form simple and only ask for the contact details and information needed for first contact. I will leave out home addresses and photo uploads for now, as I want to limit the amount of personal information being collected through the website. I still need to decide if FormSubmit is suitable before using it for real enquiries.
 
 
-
-
 - How did the client’s needs and research influence your design?
 - Explain key choices for layout, colours, navigation and accessibility.
 - Link to your wireframes or sketches.
+
+## Wireframes & Layout 
+
+
+## Colors & Font 
+
 
 ## Features and development
 

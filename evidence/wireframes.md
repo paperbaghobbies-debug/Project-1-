@@ -4,6 +4,8 @@ These low-fidelity wireframes are based on the mobile hand sketches, client feed
 
 On wider screens, the content should remain centered within a readable page container. The About section keeps Lydia's photo to the left of the text. Review cards use three columns and three rows on larger screens and stack into one column on mobile.
 
+The hand sketches are an initial, basic version; these text wireframes reflect the later design direction developed from the prompts. Confirm with Lydia whether the About section can remain on the Home page or should have a separate page before finalising the navigation.
+
 ## Shared mobile header: menu closed
 
 ```text
@@ -262,8 +264,8 @@ On larger screens, show review cards in three columns, up to three rows at a tim
 ├──────────────────────────────────────────┤
 │             What clients say             │
 │           "Featured review text..."      │
-│            ★★★★★ - Client name          │
-│                 [‹] 1 of 4 [›]           │
+│            ★★★★★ - Client name        │
+│          [‹] 1 of 4 [Pause] [›]          │
 ├──────────────────────────────────────────┤
 │ Home               Services & Prices     │
 │ Gallery            Reviews               │
@@ -275,4 +277,4 @@ On larger screens, show review cards in three columns, up to three rows at a tim
 └──────────────────────────────────────────┘
 ```
 
-The enquiry form does not request a home address or photo uploads, following the privacy decision recorded in the feature research. The featured review carousel appears on Home, Services & Prices, Gallery and FAQ; it is not shown on the full Reviews or Enquiry / Contact pages. Carousel controls include previous, pause and next.
+The enquiry form does not request a home address or photo uploads, following the privacy decision recorded in the feature research. The featured review carousel appears on every page except Reviews, including Enquiry / Contact. Carousel controls include previous, pause and next. A simple success or error prompt is planned for implementation but is not shown as a separate wireframe state. FormSubmit is intended to send the automatic acknowledgement email; its privacy and delivery suitability still needs checking before launch.
