@@ -4,7 +4,7 @@ These low-fidelity wireframes are based on the mobile hand sketches, client feed
 
 On wider screens, the content should remain centered within a readable page container. The About section keeps Lydia's photo to the left of the text. Review cards use three columns and three rows on larger screens and stack into one column on mobile.
 
-The hand sketches are an initial, basic version; these text wireframes reflect the later design direction developed from the prompts. Confirm with Lydia whether the About section can remain on the Home page or should have a separate page before finalising the navigation.
+The hand sketches are an initial, basic version; these text wireframes reflect the later design direction developed from the prompts.I Confirmed with Lydia whether the About section can remain on the Home page.
 
 ## Shared mobile header: menu closed
 
@@ -56,32 +56,35 @@ The hand sketches are an initial, basic version; these text wireframes reflect t
 │                 Hair by Lydia            │
 │   Mobile hairdresser in Banbury and      │
 │           nearby villages                │
+│                                          │
 │             [Make an enquiry]            │
 ├──────────────────────────────────────────┤
 │                About Lydia               │
 │                                          │
-│ ┌──────────────┐  Short personal          │
-│ │              │  introduction about     │
-│ │ Lydia's photo│  Lydia, her experience  │
-│ │              │  and training           │
-│ └──────────────┘  [More about Lydia]     │
-│                   [Gallery] [Services]   │
+│          ┌────────────────────┐          │
+│          │                    │          │
+│          │    Lydia's photo   │          │
+│          │                    │          │
+│          └────────────────────┘          │
 │                                          │
-│      (About section content centered     │
-│              in the page container)      │
+│ Short personal introduction about Lydia, │
+│ her experience and training.             │
+│                                          │
+│          [Gallery]   [Services]           │
 ├──────────────────────────────────────────┤
 │             What clients say             │
 │                                          │
 │           "Featured review text..."      │
 │            ★★★★★ - Client name          │
+│                                          │
 │          [‹] 1 of 4 [Pause] [›]          │
 │              [Read all reviews]          │
 ├──────────────────────────────────────────┤
 │ Home               Services & Prices     │
 │ Gallery            Reviews               │
-│ FAQ                Make an enquiry       │
+│ FAQ                Make an enquiry        │
 │                                          │
-│ Instagram          Facebook      WhatsApp│
+│ Instagram          Facebook      WhatsApp │
 │ © Hair by Lydia                           │
 │ All rights reserved                      │
 └──────────────────────────────────────────┘
