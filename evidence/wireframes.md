@@ -307,37 +307,40 @@ On larger screens, show review cards in three columns, up to three rows at a tim
 
 **Mobile**
 ```text
-┌──────────────────────────────────────────────────────────┐
-│ ✦ Hair by Lydia  [Make an enquiry]  [☰]                 │
-├──────────────────────────────────────────────────────────┤
-│                         Reviews                          │
-│                 Read what clients say                    │
-│                                                          │
-│ ┌────────────────┐ ┌────────────────┐ ┌────────────────┐│
-│ │ ★★★★★          │ │ ★★★★★          │ │ ★★★★★          ││
-│ │ Review text A  │ │ Review text B  │ │ Review text C  ││
-│ │ Client name    │ │ Client name    │ │ Client name    ││
-│ └────────────────┘ └────────────────┘ └────────────────┘│
-│                                                          │
-│ ┌────────────────┐ ┌────────────────┐ ┌────────────────┐│
-│ │ ★★★★★          │ │ ★★★★★          │ │ ★★★★★          ││
-│ │ Review text D  │ │ Review text E  │ │ Review text F  ││
-│ │ Client name    │ │ Client name    │ │ Client name    ││
-│ └────────────────┘ └────────────────┘ └────────────────┘│
-│                                                          │
-│ ┌────────────────┐ ┌────────────────┐ ┌────────────────┐│
-│ │ ★★★★★          │ │ ★★★★★          │ │ ★★★★★          ││
-│ │ Review text G  │ │ Review text H  │ │ Review text I  ││
-│ │ Client name    │ │ Client name    │ │ Client name    ││
-│ └────────────────┘ └────────────────┘ └────────────────┘│
-│                       [Load more]                        │
-├──────────────────────────────────────────────────────────┤
-│ Home              Services & Prices         Gallery      │
-│ Reviews           FAQ                       Make enquiry │
-│ Instagram         Facebook                  WhatsApp     │
-│ © Hair by Lydia                                           │
-│ All rights reserved                                       │
-└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│ ✦ Hair by Lydia  [Make an enquiry]  [☰] │
+├──────────────────────────────────────────┤
+│                  Reviews                 │
+│           Read what clients say          │
+│                                          │
+│ ┌──────────────────────────────────────┐ │
+│ │ ★★★★★                                │ │
+│ │ Review text A                        │ │
+│ │ Client name                          │ │
+│ └──────────────────────────────────────┘ │
+│                                          │
+│ ┌──────────────────────────────────────┐ │
+│ │ ★★★★★                                │ │
+│ │ Review text B                        │ │
+│ │ Client name                          │ │
+│ └──────────────────────────────────────┘ │
+│                                          │
+│ ┌──────────────────────────────────────┐ │
+│ │ ★★★★★                                │ │
+│ │ Review text C                        │ │
+│ │ Client name                          │ │
+│ └──────────────────────────────────────┘ │
+│                                          │
+│               [Load more]                │
+├──────────────────────────────────────────┤
+│ Home               Services & Prices     │
+│ Gallery            Reviews               │
+│ FAQ                Make an enquiry       │
+│                                          │
+│ Instagram          Facebook      WhatsApp│
+│ © Hair by Lydia                          │
+│ All rights reserved                      │
+└──────────────────────────────────────────┘
 ```
 **Desktop**
 ```text
