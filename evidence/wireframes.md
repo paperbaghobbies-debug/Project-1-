@@ -112,7 +112,7 @@ The hand sketches are an initial, basic version; these text wireframes reflect t
 |       |                         |     Short introduction about Lydia,          |
 |       |      LYDIA'S PHOTO      |     her experience and training.            |
 |       |                         |                                              |
-|       |                         |     [More about Lydia]                       |
+|       |                         |                                              |
 |       +-------------------------+     [Gallery]  [Services]                    |
 |                                                                                |
 +--------------------------------------------------------------------------------+
