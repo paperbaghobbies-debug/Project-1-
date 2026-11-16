@@ -184,6 +184,53 @@ The following checks are for the user stories documented so far. They are planne
 - Link to your wireframes or sketches.
 
 ## Wireframes & Layout 
+```text
+MOBILE                                           DESKTOP
++------------------------------------------+     +--------------------------------------------------------------------------------+
+| Hair by Lydia  [Make an enquiry]  [menu] |     | HAIR BY LYDIA   Home  Services  Gallery  Reviews  FAQ  [Make an enquiry]       |
++------------------------------------------+     +--------------------------------------------------------------------------------+
+|                                          |     |                                                                                |
+|              HERO HAIR PHOTO             |     |                          HERO PHOTO / SLIDESHOW                               |
+|                                          |     |                                                                                |
+|             [<] [Pause] [>]              |     |                               Hair by Lydia                                   |
+|               Hair by Lydia              |     |              Mobile hairdresser in Banbury and nearby villages                 |
+|   Mobile hairdresser in Banbury and      |     |                                                                                |
+|           nearby villages                |     |                         [Make an enquiry]                                     |
+|                                          |     |                           [<] [Pause] [>]                                      |
+|          [Make an enquiry]               |     |                                                                                |
++------------------------------------------+     +--------------------------------------------------------------------------------+
+|               About Lydia                |     |                                                                                |
+|                                          |     |       +-------------------------+     ABOUT LYDIA                              |
+|        +------------------------+        |     |       |                         |                                             |
+|        |                        |        |     |       |                         |     Short introduction about Lydia,         |
+|        |     Lydia's photo      |        |     |       |      LYDIA'S PHOTO      |     her experience and training             |
+|        |                        |        |     |       |                         |                                             |
+|        +------------------------+        |     |       +-------------------------+     [Gallery]  [Services]                    |
+|                                          |     |                                                                                |
+| Short introduction about Lydia, her      |     +--------------------------------------------------------------------------------+
+| experience and training.                |     |                            WHAT CLIENTS SAY                                  |
+|                                          |     |                                                                                |
+|       [Gallery]  [Services]              |     |                   "Featured review text goes here..."                         |
++------------------------------------------+     |                          ***** - Client name                                  |
+|            WHAT CLIENTS SAY              |     |                                                                                |
+|                                          |     |                       [<] 1 of 4 [Pause] [>]                                  |
+|      "Featured review text..."           |     |                          [Read all reviews]                                    |
+|       ***** - Client name                |     +--------------------------------------------------------------------------------+
+|                                          |     | HAIR BY LYDIA       EXPLORE                 GET IN TOUCH                      |
+|       [<] 1 of 4 [Pause] [>]             |     |                     Home                    Make an enquiry                   |
+|        [Read all reviews]                |     |                     Services & Prices       Instagram                         |
++------------------------------------------+     |                     Gallery                 Facebook                         |
+| Home             Services & Prices       |     |                     Reviews                 WhatsApp                         |
+| Gallery          Reviews                 |     |                     FAQ                                                      |
+| FAQ              Make an enquiry         |     |                                                                                |
+|                                          |     | (c) Hair by Lydia. All rights reserved.                                      |
+| Instagram        Facebook       WhatsApp |     +--------------------------------------------------------------------------------+
+| (c) Hair by Lydia                       |
+| All rights reserved                     |
++------------------------------------------+
+```
+See my wireframes for the planned mobile and desktop page layouts: [view the wireframes](./evidence/wireframes.md).
+
 
 
 ## Colors & Font 
