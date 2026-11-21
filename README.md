@@ -34,7 +34,7 @@ I adopted mobile-first design using Figma and other sources as a basis for my me
 - Lydia wants visitors to see her work and learn about her, so I am considering a hero slideshow and an About section to showcase her transformations and personality
 - I began exploring colors, style research, and weather an instagram API would work for lydia website gallery which might make updates easier. 
 
-- [Read Lydia’s questionnaire](./evidence/questionaire-hbl.md)
+- [Read Lydia’s questionnaire](./docs/questionaire-hbl.md)
 
 ### Research and early ideas
 
@@ -42,7 +42,7 @@ I adopted mobile-first design using Figma and other sources as a basis for my me
 - I evaluated all three websites against six criteria and recorded my findings. I also checked their colour contrast and accessibility using Lighthouse and browser developer tools. These findings, together with Lydia’s feedback, will help inform my design decisions and guide further research into specific features.
 - This research helped me decide to include an enquiry form, real client photos and a review carousel, as these matched Lydia's needs and the strengths I found on competitor sites. It also highlighted the importance of accessibility.
 
-- [Read my competitor research](./evidence/competitor-research.md)
+- [Read my competitor research](./docs/competitor-research.md)
 
 Based on Lydia's feedback and my competitor research, I identified some early features and design decisions that need further research. This document shows that research, along with my findings and takeaways.
 
@@ -71,7 +71,7 @@ Based on Lydia's feedback and my competitor research, I identified some early fe
 │Combined │ │         │ │         │   │         │ │(Stand.) │ │         │ │Research │
 └─────────┘ └─────────┘ └─────────┘   └─────────┘ └─────────┘ └─────────┘ └─────────┘
 ```
-- [Read my feature research](./evidence/feature-research.md)
+- [Read my feature research](./docs/feature-research.md)
 
 ### Follow-up feedback
 
@@ -87,7 +87,7 @@ Based on Lydia's feedback and my competitor research, I identified some early fe
   - She would rather send updates to someone else than update the site herself.
   - Her answers also changed my plans. The Instagram API is now an optional feature that needs research, with a gallery I update as the fallback. Her preference not to update the site herself means I should keep updating content simple. Lydia also liked the proposed colour palette, which I will use as my starting point for design.
 
-- [Read Lydia's follow-up feedback](./evidence/lydia-feedback.md)
+- [Read Lydia's follow-up feedback](./docs/lydia-feedback.md)
 
 ## User stories
 
@@ -229,7 +229,7 @@ MOBILE                                           DESKTOP
 | All rights reserved                     |
 +------------------------------------------+
 ```
-See my wireframes for the planned mobile and desktop page layouts: [view the wireframes](./evidence/wireframes.md).
+See my wireframes for the planned mobile and desktop page layouts: [view the wireframes](./docs/wireframes.md).
 
 
 
@@ -258,8 +258,8 @@ See my wireframes for the planned mobile and desktop page layouts: [view the wir
 - Are there any unresolved issues?
 
 ## References and supporting evidence
-- [Read Lydia’s questionnaire](./evidence/questionaire-hbl.md)
-- [Read my competitor research](./evidence/competitor-research.md)
-- [Read Lydia's follow-up feedback](./evidence/lydia-feedback.md)
-- [Read my feature research](./evidence/feature-research.md)
+- [Read Lydia’s questionnaire](./docs/questionaire-hbl.md)
+- [Read my competitor research](./docs/competitor-research.md)
+- [Read Lydia's follow-up feedback](./docs/lydia-feedback.md)
+- [Read my feature research](./docs/feature-research.md)
 - [AI log (Appendix A)](./evidence/appendix-a-ai-log.md)
