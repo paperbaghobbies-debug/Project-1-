@@ -1,0 +1,56 @@
+/* ==========================================================================
+   1. MOBILE NAVBAR
+   ========================================================================== */
+
+body {
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.site-logo img {
+    display: block;
+    width: 80px;
+    height: auto;
+}
+
+.enquiry-button {
+    margin-left: auto;
+}
+
+#navigation-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu-toggle {
+    display: none;
+}
+
+/* ==========================================================================
+   2. DESKTOP NAVBAR
+   ========================================================================== */
+
+@media (min-width: 768px) {
+    #navigation-links {
+        flex-direction: row;
+        width: auto;
+        margin-left: auto;
+    }
+
+    .enquiry-button {
+        order: 1;
+        margin-left: 0;
+    }
+}
