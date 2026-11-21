@@ -1,9 +1,9 @@
 # Appendix A: AI Log
 
 ## Declaration of AI use
-I used Google Gemini to generate a rough template diagram for mapping my website features (see [feature-research.md](./feature-research.md)). I then refined it, gave Gemini changes and direction, and dismissed some of its suggestions. I also used Copilot in VS Code to draft wireframes from my sketches and project research. The separate records below describe each interaction, what I accepted or rejected, and the changes I directed. I reviewed the AI outputs rather than treating them as authoritative.
+I used Google Gemini to generate a rough template diagram for mapping my website features (see [feature-research.md](../docs/feature-research.md)). I then refined it, gave Gemini changes and direction, and dismissed some of its suggestions. I also used Copilot in VS Code to draft wireframes from my sketches and project research. The separate records below describe each interaction, what I accepted or rejected, and the changes I directed. I reviewed the AI outputs rather than treating them as authoritative.
 
-The wireframe draft is saved in [wireframes.md](./wireframes.md).
+The wireframe draft is saved in [wireframes.md](../docs/wireframes.md).
 
 ## How I used the AI
 - **Tool:** Google Gemini
@@ -32,7 +32,7 @@ The wireframe draft is saved in [wireframes.md](./wireframes.md).
 
 ## My work and the AI's work
 - **AI-generated:** the rough diagram layout and formatting.
-- **My own work:** the process I mapped, the feature decisions, all the corrections above, and the research and conclusions in [feature-research.md](./feature-research.md). The AI output was a template only. I checked it and changed it before using it.
+- **My own work:** the process I mapped, the feature decisions, all the corrections above, and the research and conclusions in [feature-research.md](../docs/feature-research.md). The AI output was a template only. I checked it and changed it before using it.
 
 ## Reference
 Google Gemini (2026) *Response to a prompt about mapping website features from user stories* [Gemini]. Conversation URL unavailable; no public link was retained. [Accessed 9 November 2026].
@@ -71,6 +71,6 @@ Google Gemini (2026) *Response to a prompt about mapping website features from u
 
 ## My work and Copilot's work
 - **My own work:** The hand sketches, page structure, content ideas, project research, requirements, and design decisions. These informed the wireframe draft and were not originated by the AI.
-- **AI assistance:** Copilot helped express my sketches and directions as text-based wireframe drafts and helped format revisions. I reviewed those drafts and updated the wireframe to reflect my later clarifications before keeping it in [wireframes.md](./wireframes.md).
+- **AI assistance:** Copilot helped express my sketches and directions as text-based wireframe drafts and helped format revisions. I reviewed those drafts and updated the wireframe to reflect my later clarifications before keeping it in [wireframes.md](../docs/wireframes.md).
 
 The wireframes remain a draft for my review, not a final visual design.
